@@ -26,7 +26,7 @@ const Index = () => {
   return (
     <Box>
       <VStack spacing={8} alignItems="center" py={12} px={6}>
-        <Image borderRadius="full" boxSize="200px" src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG9mJTIwc2ltb24lMjBsaW5kaG9sbXxlbnwwfHx8fDE3MTA4NTA1MTl8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Simon Lindholm" />
+        <Image borderRadius="full" boxSize="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2bY_cwZ9fXMdIkAPAHiFFk210b21aa2LJmPvC3i9Hw&s" alt="Simon Lindholm" />
         <Heading as="h1" size="2xl">
           Simon Lindholm
         </Heading>
